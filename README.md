@@ -8,10 +8,8 @@
 👶 2000.11.02 <br>
 📞 010-9338-6535 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sok17449@gmail.com)](mailto:sok17449@gmail.com) 
-<span><a href="https://www.notion.so/14b77bd35eb080be9d71f3657f4e83a2"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
-
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sok17449@gmail.com)](mailto:sok17449@gmail.com)  
+<span><a href="https://mountainous-worm-97f.notion.site/14b77bd35eb080be9d71f3657f4e83a2"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a></span>
 
 <br>
 
